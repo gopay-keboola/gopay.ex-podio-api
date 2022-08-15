@@ -7,11 +7,13 @@
   "properties": {
     "print_hello": {
       "type": "boolean",
-      "title": "Print Hello"
+      "title": "Print Hello",
+      "propertyOrder": 1
     },
     "debug": {
       "type": "boolean",
-      "title": "Debug"
+      "title": "Debug",
+      "propertyOrder": 2
     }
   }
 }
